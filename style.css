@@ -105,7 +105,7 @@ section {
 
 /* --- HEADER & HERO SECTION --- */
 .header {
-    background: linear-gradient(rgba(26, 58, 83, 0.7), rgba(26, 58, 83, 0.7)), url('images/hero-1.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(26, 58, 83, 0.7), rgba(26, 58, 83, 0.7)), url('https://images.unsplash.com/photo-1682888818718-74b9ffa75907?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat center center/cover;
     height: 100vh;
     color: var(--white);
     display: flex;
